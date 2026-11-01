@@ -1,0 +1,1 @@
+open ~/my_first_app/macos/Runner/Release.entitlements
